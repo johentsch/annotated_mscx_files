@@ -1454,7 +1454,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I}</name>
+            <name>I|PC}</name>
             <offset x="0.1" y="5.69"/>
             </Harmony>
           <Beam>
