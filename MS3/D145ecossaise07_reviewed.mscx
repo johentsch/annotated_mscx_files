@@ -1262,7 +1262,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.1" y="5.69"/>
             </Harmony>
           <Chord>
@@ -1284,6 +1290,11 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -1323,7 +1334,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.1" y="5.69"/>
             </Harmony>
           <Chord>
@@ -1347,7 +1364,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>IV{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>IV</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.1" y="5.69"/>
             </Harmony>
           <Beam>
@@ -1454,7 +1477,13 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I|PC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.1" y="5.69"/>
             </Harmony>
           <Beam>
@@ -1599,7 +1628,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>bII}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>bII</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.1" y="5.69"/>
             </Harmony>
           <Beam>
@@ -1636,7 +1671,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7</name>
+            <color r="0" g="85" b="0" a="255"/>
             <minDistance>0.185175</minDistance>
             <offset x="0.1" y="5.69"/>
             </Harmony>
